@@ -30,6 +30,6 @@ I'm particularly interested in systems that help us understand disasters, infras
 
 **Tools:** Python · SQL · PostgreSQL/PostGIS · Rust · Linux · SDR · TypeScript · GIS
 
-**[Portfolio and technical case studies → tomshanks.dev](https://www.tomshanks.dev/)**
+**[Portfolio and technical case studies → tomshanks.dev](https://www.tomshanks.dev/)** · **[LinkedIn](https://www.linkedin.com/in/tom-shanks-a3993451/)**
 
 Based in Denver, Colorado.
