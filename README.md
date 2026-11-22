@@ -22,6 +22,17 @@ LiDAR, aerial imagery, spatial machine learning, and geographic validation appli
 **[Spatial Fields](https://github.com/Tom-Shanks/spatial-fields)**  
 Interactive visualizations built from real satellite, aircraft, acoustic, and geospatial datasets, with source code and provenance notes.
 
+## Where it started
+
+My early GIS work used maps to investigate historical landscapes, coastal flooding, access to public services, and conservation boundaries. The same work of checking source data, aligning it in space, and documenting its limits now shows up in my data integrations and sensor pipelines.
+
+- [Historical Cheeseman Park](https://github.com/Tom-Shanks/Historical_Cheeseman) · Georeferenced a hand-drawn map of the Denver park.
+- [Myrtle Beach sea-level rise](https://github.com/Tom-Shanks/MB-Flooding) · Published an exploratory coastal inundation map.
+- [Denver senior residents and library access](https://github.com/Tom-Shanks/denver_seniors) · Mapped population and facility layers for mobile-library planning.
+- [Western yellow-billed cuckoo](https://github.com/Tom-Shanks/cuckoo_map) · Mapped proposed federal habitat boundaries from 2020.
+
+Today I work on data integration and build independent RF, telemetry, and satellite ground systems. I’m interested in bringing that experience to ground and mission software, especially where verification and reproducibility matter.
+
 ## What interests me
 
 Sensor integration, geospatial infrastructure, remote sensing, RF systems, space and ground software, autonomy, and the engineering required to turn imperfect observations into reliable information.
